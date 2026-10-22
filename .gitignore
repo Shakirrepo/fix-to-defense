@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.sarif
+reports/
+.pytest_cache/
+node_modules/
+out/
+*.vsix
+.DS_Store
